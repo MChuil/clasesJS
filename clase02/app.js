@@ -65,11 +65,13 @@ var product = "Computadora de Escritorio"
     calificacion = 5
 
 /* no se puede nombre una variable iniciando con numero
-    var 365dias --mal
-    var #365 --mal
-    var nombre del producto -- mal
+    ---Errores---
+    var 365dias
+    var #365 
+    var nombre del producto
 
-    var dias365 --ok
+    ---Correctos----
+    var dias365
     var _01
     var 01_
     var _usuario
